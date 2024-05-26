@@ -1,0 +1,1001 @@
+firstname,age,resident,married,education_level,employment
+Mosi,36,Dodoma,no,higher diploma,government
+Ayaan,34,Unguja North,no,certificate,government
+Udo,21,Njombe,yes,certificate,private
+Zola,57,Singida,yes,higher diploma,government
+Chidinma,54,Mtwara,no,bach degree,private
+Chidinma,36,Kagera,yes,certificate,government
+Dayo,24,Tanga,yes,higher certificate,private
+Ebele,35,Arusha,no,bach degree,private
+Ifeoma,38,Pemba North,no,higher certificate,private
+Ayaan,33,Pemba South,no,certificate,private
+Jelani,61,Arusha,yes,higher diploma,private
+Zola,30,Manyara,no,diploma,private
+Adama,51,Mwanza,yes,certificate,government
+Femi,34,Tabora,yes,higher diploma,private
+Mosi,24,Katavi,yes,bach degree,government
+Achieng,18,Pemba South,no,higher diploma,government
+Udo,35,Iringa,yes,diploma,private
+Habib,54,Geita,no,certificate,private
+Jelani,34,Zanzibar Urban/West,yes,bach degree,private
+Habib,45,Manyara,no,higher certificate,government
+Adama,35,Rukwa,yes,diploma,government
+Nia,57,Kigoma,no,certificate,government
+Habib,55,Katavi,no,diploma,government
+Chidinma,35,Kigoma,yes,bach degree,private
+Gimba,22,Dodoma,no,bach degree,government
+Tunde,38,Geita,yes,diploma,government
+Nia,33,Manyara,no,higher diploma,private
+Afolabi,39,Rukwa,yes,bach degree,private
+Odera,22,Tanga,yes,diploma,private
+Zola,45,Kilimanjaro,no,diploma,government
+Ifeoma,25,Pemba North,no,higher diploma,private
+Odera,48,Ruvuma,no,higher diploma,private
+Jelani,28,Zanzibar Urban/West,no,higher diploma,private
+Odera,63,Singida,yes,higher diploma,private
+Gimba,18,Katavi,yes,higher diploma,government
+Salif,20,Mtwara,yes,bach degree,private
+Kwame,26,Pemba North,no,diploma,private
+Ayaan,48,Katavi,no,certificate,private
+Zola,57,Njombe,no,certificate,government
+Femi,45,Singida,yes,higher diploma,government
+Ifeoma,39,Morogoro,no,higher certificate,private
+Femi,43,Shinyanga,no,certificate,private
+Penda,19,Manyara,yes,certificate,private
+Udo,28,Tanga,yes,higher certificate,private
+Habib,41,Mtwara,no,certificate,private
+Femi,19,Songwe,no,higher certificate,government
+Adama,32,Unguja North,yes,higher certificate,government
+Jelani,40,Dodoma,no,higher diploma,private
+Femi,50,Dodoma,yes,bach degree,private
+Ayaan,47,Arusha,no,diploma,government
+Nia,31,Songwe,yes,higher certificate,government
+Achieng,25,Njombe,no,higher diploma,private
+Ebele,35,Tanga,yes,diploma,private
+Penda,61,Unguja North,no,higher diploma,private
+Habib,34,Geita,no,higher diploma,private
+Odera,18,Mbeya,no,bach degree,private
+Chidinma,50,Songwe,yes,diploma,private
+Nia,40,Kigoma,no,diploma,private
+Penda,30,Kagera,yes,certificate,government
+Mosi,37,Simiyu,yes,higher certificate,private
+Lulu,32,Kilimanjaro,no,bach degree,government
+Zola,47,Iringa,yes,certificate,private
+Penda,26,Pwani,no,certificate,private
+Lulu,64,Pwani,no,higher diploma,private
+Achieng,29,Katavi,yes,higher diploma,private
+Gimba,48,Mara,no,diploma,government
+Kwame,44,Morogoro,yes,higher certificate,private
+Ifeoma,19,Iringa,yes,diploma,private
+Chidinma,33,Dar es Salaam,no,higher certificate,government
+Ifeoma,64,Tanga,no,certificate,private
+Odera,39,Dodoma,yes,higher diploma,private
+Odera,63,Rukwa,yes,certificate,private
+Nia,33,Geita,yes,higher certificate,government
+Salif,62,Morogoro,no,diploma,government
+Chidinma,41,Lindi,yes,diploma,government
+Kwame,61,Zanzibar Central/South,yes,certificate,private
+Jelani,54,Mbeya,no,higher certificate,government
+Dayo,65,Dar es Salaam,yes,diploma,private
+Yemi,47,Tabora,no,diploma,private
+Achieng,57,Zanzibar Central/South,yes,certificate,government
+Habib,36,Pemba South,no,higher certificate,private
+Mosi,30,Pwani,no,certificate,private
+Nia,33,Simiyu,no,higher certificate,private
+Kwame,54,Pemba North,no,diploma,private
+Ebele,24,Lindi,yes,higher diploma,government
+Kamau,50,Njombe,no,bach degree,government
+Nia,22,Ruvuma,yes,diploma,government
+Odera,63,Unguja South,no,diploma,private
+Kwame,42,Njombe,no,certificate,government
+Odera,29,Pemba South,no,diploma,government
+Tunde,25,Mtwara,no,higher diploma,government
+Habib,36,Tanga,yes,higher diploma,government
+Gimba,46,Zanzibar Urban/West,yes,bach degree,private
+Jelani,34,Kilimanjaro,yes,diploma,government
+Ebele,35,Arusha,yes,certificate,private
+Chidinma,55,Unguja South,no,higher diploma,government
+Odera,51,Zanzibar Urban/West,no,bach degree,private
+Gimba,32,Manyara,no,higher diploma,government
+Lulu,46,Ruvuma,yes,bach degree,private
+Odera,35,Morogoro,yes,certificate,government
+Habib,63,Tabora,no,diploma,government
+Dayo,47,Zanzibar North,no,higher certificate,government
+Ifeoma,54,Dodoma,no,bach degree,government
+Udo,60,Kagera,yes,diploma,private
+Mosi,41,Dar es Salaam,yes,higher certificate,private
+Mosi,29,Dodoma,yes,diploma,government
+Yemi,25,Unguja South,yes,higher diploma,government
+Mosi,28,Tanga,yes,bach degree,government
+Nia,44,Lindi,no,bach degree,government
+Afolabi,55,Pemba South,no,diploma,government
+Lulu,41,Tabora,no,higher certificate,private
+Kwame,43,Singida,yes,higher certificate,private
+Ebele,38,Singida,yes,diploma,private
+Odera,55,Lindi,yes,higher diploma,private
+Salif,32,Mtwara,no,diploma,private
+Ifeoma,62,Pwani,yes,higher diploma,government
+Salif,20,Pemba South,no,higher certificate,government
+Jelani,64,Shinyanga,yes,higher certificate,government
+Zola,47,Dodoma,yes,certificate,government
+Femi,53,Manyara,no,higher diploma,private
+Ebele,61,Kilimanjaro,no,diploma,private
+Adama,34,Iringa,no,certificate,private
+Achieng,54,Morogoro,yes,higher certificate,government
+Gimba,26,Kagera,yes,certificate,private
+Zola,47,Katavi,no,higher diploma,private
+Salif,34,Shinyanga,no,certificate,government
+Ayaan,44,Mara,yes,bach degree,government
+Ayaan,48,Mara,yes,higher certificate,private
+Mosi,35,Songwe,yes,bach degree,government
+Kwame,61,Dar es Salaam,no,certificate,government
+Lulu,24,Unguja South,no,higher diploma,private
+Nia,39,Kigoma,no,higher certificate,government
+Lulu,33,Zanzibar North,yes,higher diploma,government
+Zola,20,Dar es Salaam,yes,higher certificate,private
+Kwame,29,Simiyu,yes,higher diploma,government
+Dayo,42,Tabora,no,bach degree,government
+Nia,35,Manyara,no,certificate,private
+Yemi,33,Tabora,yes,certificate,government
+Salif,42,Singida,no,higher diploma,government
+Femi,27,Njombe,no,higher diploma,government
+Zola,30,Tabora,yes,diploma,government
+Penda,38,Mtwara,yes,higher certificate,government
+Achieng,61,Pwani,no,higher certificate,government
+Femi,23,Pwani,yes,higher certificate,private
+Femi,33,Rukwa,yes,certificate,government
+Salif,39,Dar es Salaam,yes,higher certificate,government
+Tunde,22,Kigoma,yes,higher diploma,private
+Ayaan,38,Kigoma,no,higher diploma,government
+Mosi,63,Zanzibar Central/South,yes,bach degree,private
+Yemi,65,Mwanza,yes,diploma,private
+Odera,44,Simiyu,no,diploma,private
+Tunde,61,Zanzibar Urban/West,yes,diploma,government
+Salif,52,Songwe,no,certificate,private
+Odera,33,Morogoro,no,certificate,government
+Habib,48,Simiyu,yes,certificate,private
+Kwame,26,Zanzibar Central/South,yes,bach degree,private
+Penda,58,Dodoma,yes,diploma,government
+Kwame,40,Njombe,yes,bach degree,private
+Femi,58,Pemba North,no,diploma,private
+Ifeoma,19,Morogoro,no,diploma,private
+Odera,29,Iringa,no,diploma,private
+Odera,42,Geita,yes,certificate,private
+Lulu,65,Kigoma,no,higher certificate,private
+Chidinma,28,Njombe,yes,certificate,private
+Zola,30,Songwe,yes,higher diploma,government
+Salif,25,Katavi,no,certificate,government
+Nia,22,Unguja South,no,bach degree,private
+Jelani,43,Pemba South,no,bach degree,government
+Yemi,37,Pemba North,no,higher diploma,private
+Gimba,31,Lindi,yes,bach degree,private
+Habib,29,Kigoma,yes,higher diploma,private
+Habib,44,Zanzibar Central/South,yes,diploma,private
+Ayaan,39,Shinyanga,no,bach degree,private
+Mosi,30,Manyara,no,diploma,private
+Ayaan,31,Kigoma,no,higher diploma,private
+Ifeoma,23,Ruvuma,no,bach degree,government
+Yemi,54,Iringa,no,certificate,government
+Yemi,48,Kilimanjaro,no,diploma,government
+Kamau,62,Geita,yes,higher certificate,private
+Zola,52,Morogoro,yes,higher diploma,government
+Tunde,18,Shinyanga,no,diploma,government
+Penda,41,Pemba South,yes,certificate,government
+Nia,47,Morogoro,yes,higher certificate,government
+Penda,36,Tabora,no,certificate,private
+Kamau,30,Rukwa,no,higher diploma,government
+Mosi,30,Njombe,yes,bach degree,government
+Yemi,20,Katavi,yes,higher diploma,private
+Salif,35,Rukwa,no,higher certificate,government
+Habib,57,Songwe,yes,higher certificate,private
+Salif,27,Unguja North,no,higher certificate,government
+Udo,52,Pemba South,yes,higher certificate,private
+Penda,30,Kagera,yes,certificate,government
+Ifeoma,27,Singida,no,diploma,private
+Lulu,58,Unguja South,no,higher diploma,private
+Femi,49,Iringa,yes,higher diploma,private
+Ifeoma,41,Manyara,yes,higher certificate,private
+Ifeoma,21,Zanzibar Urban/West,yes,higher certificate,private
+Dayo,54,Mtwara,yes,certificate,private
+Ifeoma,37,Zanzibar North,yes,higher diploma,private
+Ayaan,25,Songwe,no,higher diploma,private
+Gimba,36,Pemba South,yes,bach degree,government
+Gimba,24,Zanzibar North,no,diploma,government
+Afolabi,63,Dar es Salaam,yes,higher certificate,government
+Achieng,22,Geita,yes,diploma,private
+Afolabi,25,Kigoma,yes,bach degree,private
+Habib,35,Shinyanga,no,bach degree,government
+Udo,45,Zanzibar Urban/West,yes,certificate,government
+Salif,64,Unguja South,no,higher diploma,government
+Zola,54,Iringa,no,higher certificate,government
+Dayo,41,Dar es Salaam,no,higher certificate,private
+Udo,37,Dodoma,no,higher diploma,private
+Penda,55,Manyara,yes,certificate,government
+Ebele,24,Simiyu,no,diploma,government
+Yemi,25,Rukwa,yes,diploma,private
+Lulu,27,Dar es Salaam,yes,higher diploma,government
+Afolabi,52,Unguja South,yes,higher certificate,government
+Odera,19,Mwanza,yes,bach degree,private
+Adama,35,Kagera,no,diploma,private
+Adama,36,Singida,no,certificate,private
+Ifeoma,49,Pemba North,yes,diploma,government
+Gimba,34,Kagera,no,higher certificate,government
+Adama,56,Dar es Salaam,yes,diploma,private
+Kamau,65,Kagera,yes,bach degree,government
+Zola,22,Njombe,no,higher diploma,government
+Dayo,61,Kigoma,yes,bach degree,private
+Nia,50,Njombe,no,bach degree,government
+Jelani,28,Zanzibar Central/South,yes,bach degree,government
+Kamau,50,Arusha,yes,higher diploma,government
+Udo,49,Dar es Salaam,yes,bach degree,government
+Kamau,20,Njombe,no,bach degree,government
+Kamau,25,Ruvuma,yes,diploma,private
+Ifeoma,20,Kagera,no,bach degree,government
+Femi,35,Geita,yes,higher certificate,government
+Jelani,41,Zanzibar North,yes,higher certificate,government
+Yemi,65,Dodoma,no,bach degree,private
+Achieng,36,Unguja North,yes,bach degree,private
+Tunde,59,Arusha,no,certificate,private
+Ifeoma,51,Pemba South,no,higher certificate,government
+Nia,54,Simiyu,yes,diploma,government
+Jelani,52,Manyara,no,certificate,government
+Penda,38,Kilimanjaro,yes,higher certificate,government
+Mosi,40,Tabora,no,higher certificate,private
+Salif,61,Katavi,no,higher certificate,government
+Yemi,47,Simiyu,yes,higher diploma,government
+Zola,26,Mbeya,yes,higher certificate,private
+Mosi,56,Unguja North,no,higher certificate,private
+Udo,48,Njombe,no,certificate,government
+Habib,24,Mwanza,no,bach degree,government
+Habib,57,Iringa,yes,higher certificate,government
+Lulu,57,Zanzibar North,yes,diploma,private
+Afolabi,27,Unguja South,no,diploma,private
+Kwame,48,Zanzibar North,yes,higher certificate,government
+Lulu,57,Zanzibar North,yes,higher diploma,government
+Udo,45,Zanzibar Urban/West,no,higher diploma,private
+Kamau,64,Dar es Salaam,no,bach degree,private
+Kwame,38,Mara,no,bach degree,private
+Femi,27,Morogoro,yes,diploma,private
+Salif,55,Tabora,no,certificate,private
+Salif,50,Dodoma,yes,higher certificate,government
+Ayaan,23,Tabora,no,diploma,private
+Odera,42,Tanga,yes,higher diploma,private
+Adama,42,Mwanza,no,higher certificate,private
+Gimba,47,Dodoma,no,bach degree,private
+Ayaan,25,Manyara,yes,certificate,private
+Mosi,51,Tabora,yes,bach degree,government
+Ayaan,63,Zanzibar Central/South,yes,certificate,government
+Kamau,55,Pemba South,no,bach degree,government
+Ifeoma,61,Singida,no,certificate,government
+Gimba,51,Mtwara,no,bach degree,government
+Lulu,32,Geita,no,diploma,government
+Zola,58,Simiyu,yes,certificate,government
+Kamau,27,Mara,yes,diploma,government
+Nia,48,Simiyu,yes,bach degree,government
+Salif,53,Arusha,no,diploma,government
+Habib,44,Mbeya,no,diploma,government
+Ifeoma,57,Mara,yes,certificate,private
+Adama,59,Kagera,no,higher certificate,private
+Lulu,58,Dar es Salaam,yes,bach degree,government
+Kwame,39,Mwanza,yes,bach degree,private
+Nia,28,Zanzibar Urban/West,yes,diploma,government
+Gimba,50,Katavi,yes,higher diploma,government
+Tunde,39,Pemba South,yes,diploma,private
+Adama,36,Zanzibar North,yes,higher diploma,government
+Yemi,63,Dodoma,yes,higher diploma,government
+Afolabi,49,Unguja North,yes,bach degree,government
+Ebele,19,Songwe,yes,diploma,government
+Yemi,47,Rukwa,yes,bach degree,government
+Penda,29,Unguja North,no,bach degree,government
+Lulu,30,Geita,no,higher diploma,government
+Lulu,23,Njombe,yes,higher diploma,government
+Mosi,64,Katavi,no,higher diploma,government
+Achieng,21,Unguja South,yes,bach degree,private
+Ayaan,49,Mwanza,no,diploma,private
+Achieng,63,Shinyanga,yes,higher certificate,private
+Achieng,58,Kagera,yes,diploma,private
+Ayaan,62,Manyara,no,certificate,government
+Kwame,51,Pemba North,yes,bach degree,private
+Kwame,56,Lindi,no,higher diploma,private
+Ifeoma,58,Mara,yes,higher certificate,private
+Lulu,52,Iringa,yes,higher diploma,private
+Adama,64,Njombe,yes,higher certificate,private
+Dayo,54,Shinyanga,no,diploma,government
+Penda,23,Unguja South,no,higher certificate,private
+Femi,40,Mtwara,yes,higher diploma,government
+Penda,27,Tanga,no,higher diploma,government
+Kamau,32,Singida,yes,bach degree,government
+Ifeoma,30,Mtwara,no,diploma,private
+Ayaan,20,Songwe,yes,certificate,private
+Mosi,26,Mbeya,no,higher diploma,private
+Ayaan,35,Kigoma,yes,diploma,government
+Zola,39,Dar es Salaam,yes,certificate,government
+Achieng,37,Mwanza,no,higher certificate,private
+Lulu,48,Iringa,no,diploma,government
+Yemi,35,Tanga,yes,certificate,government
+Achieng,51,Geita,no,diploma,government
+Kamau,34,Mbeya,no,higher diploma,private
+Femi,40,Zanzibar Central/South,no,bach degree,private
+Dayo,19,Shinyanga,no,higher certificate,government
+Chidinma,32,Lindi,no,certificate,government
+Gimba,31,Simiyu,yes,higher diploma,government
+Yemi,29,Morogoro,no,higher certificate,private
+Chidinma,49,Rukwa,yes,higher diploma,private
+Kwame,42,Unguja North,yes,bach degree,private
+Kwame,24,Kagera,no,higher diploma,government
+Odera,63,Ruvuma,yes,certificate,private
+Zola,33,Pemba North,yes,diploma,private
+Gimba,59,Tanga,yes,diploma,private
+Chidinma,52,Mbeya,no,bach degree,government
+Salif,64,Katavi,yes,diploma,government
+Gimba,28,Njombe,yes,diploma,private
+Kwame,19,Singida,no,bach degree,private
+Kamau,38,Pemba South,no,certificate,private
+Ayaan,48,Unguja North,yes,higher certificate,government
+Odera,52,Ruvuma,no,diploma,private
+Dayo,51,Lindi,no,bach degree,private
+Odera,31,Ruvuma,no,higher diploma,private
+Yemi,57,Tabora,no,bach degree,government
+Afolabi,57,Arusha,no,higher certificate,private
+Odera,60,Rukwa,no,bach degree,government
+Penda,37,Zanzibar North,yes,certificate,government
+Ebele,56,Ruvuma,yes,certificate,private
+Gimba,58,Kigoma,yes,bach degree,government
+Afolabi,30,Mtwara,no,bach degree,private
+Adama,61,Rukwa,yes,certificate,government
+Penda,38,Dodoma,no,bach degree,private
+Tunde,62,Tabora,yes,higher diploma,private
+Zola,57,Njombe,yes,bach degree,government
+Femi,44,Kilimanjaro,no,higher certificate,private
+Habib,53,Unguja South,no,higher certificate,private
+Salif,63,Mwanza,no,diploma,private
+Salif,32,Pemba North,no,higher certificate,government
+Udo,33,Mbeya,no,higher diploma,private
+Habib,45,Unguja North,yes,higher certificate,private
+Udo,48,Lindi,yes,bach degree,private
+Chidinma,41,Simiyu,no,certificate,private
+Dayo,60,Ruvuma,no,certificate,government
+Ayaan,58,Pemba North,no,higher certificate,private
+Tunde,42,Pemba South,yes,higher certificate,government
+Salif,43,Pwani,no,diploma,government
+Afolabi,36,Mara,no,higher diploma,private
+Dayo,61,Dar es Salaam,yes,higher certificate,private
+Mosi,36,Arusha,yes,certificate,private
+Salif,22,Unguja North,yes,certificate,private
+Penda,64,Unguja North,no,higher certificate,government
+Femi,52,Katavi,no,diploma,private
+Yemi,49,Kagera,no,bach degree,private
+Lulu,52,Arusha,yes,higher certificate,private
+Ebele,58,Dodoma,no,higher certificate,government
+Chidinma,52,Tanga,no,diploma,private
+Adama,30,Pwani,yes,certificate,private
+Kamau,58,Arusha,yes,higher certificate,private
+Chidinma,64,Pemba South,no,higher certificate,private
+Gimba,54,Geita,yes,certificate,government
+Mosi,45,Mtwara,yes,higher diploma,government
+Afolabi,39,Zanzibar Urban/West,no,higher diploma,government
+Nia,26,Unguja North,no,diploma,private
+Salif,18,Zanzibar Urban/West,yes,higher certificate,government
+Tunde,59,Rukwa,no,higher certificate,government
+Nia,25,Tanga,no,bach degree,government
+Penda,45,Kilimanjaro,no,higher certificate,private
+Ayaan,61,Mara,yes,higher certificate,government
+Nia,26,Mtwara,no,bach degree,private
+Kwame,43,Zanzibar Central/South,no,certificate,government
+Ayaan,24,Njombe,no,certificate,government
+Jelani,63,Arusha,no,certificate,private
+Chidinma,37,Mwanza,yes,higher certificate,private
+Adama,35,Pemba South,no,certificate,government
+Tunde,44,Pemba North,yes,bach degree,private
+Udo,59,Dar es Salaam,yes,diploma,private
+Udo,33,Kagera,no,higher diploma,government
+Zola,60,Shinyanga,yes,bach degree,government
+Udo,33,Pemba North,no,bach degree,private
+Ebele,47,Dar es Salaam,yes,diploma,private
+Adama,30,Geita,no,bach degree,private
+Ebele,44,Zanzibar Central/South,no,diploma,government
+Penda,53,Njombe,yes,higher certificate,government
+Habib,23,Singida,yes,higher diploma,private
+Femi,64,Mbeya,no,higher certificate,government
+Nia,54,Pemba North,yes,certificate,private
+Habib,48,Songwe,no,certificate,private
+Lulu,63,Lindi,yes,higher certificate,private
+Jelani,30,Unguja South,yes,bach degree,private
+Afolabi,21,Pemba South,yes,higher certificate,private
+Dayo,19,Tabora,yes,higher certificate,private
+Tunde,27,Ruvuma,no,diploma,government
+Kwame,57,Pemba South,no,diploma,government
+Kamau,35,Zanzibar Central/South,no,bach degree,private
+Yemi,20,Lindi,no,higher certificate,government
+Kwame,65,Zanzibar Central/South,yes,certificate,government
+Odera,60,Mtwara,yes,higher certificate,government
+Jelani,21,Pwani,no,higher diploma,government
+Udo,47,Rukwa,yes,higher diploma,private
+Dayo,56,Ruvuma,yes,higher certificate,government
+Jelani,28,Pemba South,no,bach degree,government
+Lulu,39,Tabora,no,bach degree,government
+Mosi,25,Pemba North,no,higher diploma,private
+Lulu,51,Mwanza,yes,certificate,government
+Gimba,35,Njombe,no,bach degree,government
+Femi,53,Shinyanga,no,bach degree,private
+Adama,24,Kagera,no,higher certificate,private
+Habib,57,Pemba North,yes,diploma,private
+Chidinma,25,Njombe,no,higher diploma,government
+Gimba,44,Songwe,no,certificate,government
+Kamau,41,Katavi,no,higher diploma,government
+Odera,36,Iringa,yes,higher certificate,government
+Tunde,37,Unguja North,yes,higher certificate,private
+Habib,34,Mbeya,yes,higher certificate,private
+Afolabi,37,Zanzibar North,no,higher diploma,private
+Odera,45,Kagera,yes,diploma,government
+Nia,38,Dar es Salaam,no,diploma,government
+Udo,60,Mbeya,no,bach degree,government
+Afolabi,51,Unguja North,no,certificate,government
+Tunde,45,Unguja South,no,diploma,government
+Chidinma,36,Unguja South,no,diploma,private
+Mosi,37,Geita,no,bach degree,private
+Lulu,51,Rukwa,no,diploma,private
+Ayaan,28,Kilimanjaro,yes,higher certificate,private
+Habib,38,Geita,yes,higher certificate,government
+Odera,38,Simiyu,yes,certificate,private
+Mosi,49,Manyara,yes,higher diploma,government
+Femi,18,Dodoma,yes,certificate,government
+Kamau,51,Simiyu,no,certificate,government
+Ifeoma,61,Geita,yes,higher certificate,private
+Tunde,54,Pemba South,yes,bach degree,private
+Udo,25,Unguja North,yes,higher diploma,government
+Tunde,51,Geita,yes,certificate,private
+Gimba,22,Tabora,no,higher diploma,private
+Penda,30,Mtwara,no,diploma,private
+Udo,33,Kagera,yes,higher certificate,government
+Salif,56,Arusha,yes,diploma,government
+Kamau,42,Dar es Salaam,no,higher certificate,private
+Jelani,39,Zanzibar Central/South,yes,diploma,private
+Ebele,34,Zanzibar Central/South,yes,higher diploma,private
+Adama,57,Iringa,yes,higher diploma,government
+Ebele,46,Unguja South,yes,bach degree,government
+Kwame,18,Kagera,yes,bach degree,government
+Afolabi,51,Pemba North,yes,certificate,government
+Gimba,45,Njombe,no,higher diploma,private
+Udo,46,Dodoma,yes,diploma,private
+Habib,20,Rukwa,yes,higher diploma,government
+Afolabi,47,Kigoma,no,higher diploma,government
+Kwame,26,Zanzibar Urban/West,no,diploma,government
+Odera,26,Unguja North,no,higher certificate,private
+Zola,47,Tanga,no,higher diploma,private
+Chidinma,45,Zanzibar Central/South,yes,higher certificate,government
+Salif,24,Ruvuma,yes,higher certificate,government
+Habib,53,Mbeya,no,higher certificate,private
+Jelani,55,Ruvuma,yes,bach degree,private
+Adama,35,Tabora,yes,higher certificate,private
+Penda,23,Iringa,yes,higher certificate,private
+Achieng,48,Arusha,yes,higher diploma,private
+Ayaan,39,Kagera,no,higher certificate,private
+Mosi,47,Katavi,yes,bach degree,private
+Jelani,53,Zanzibar North,yes,higher certificate,private
+Ifeoma,43,Mtwara,yes,certificate,government
+Gimba,56,Mwanza,yes,certificate,private
+Penda,26,Geita,no,diploma,government
+Zola,40,Pemba South,yes,bach degree,government
+Jelani,34,Dodoma,yes,higher diploma,private
+Achieng,57,Ruvuma,no,higher diploma,government
+Kwame,43,Kilimanjaro,no,certificate,government
+Mosi,44,Kilimanjaro,no,higher diploma,private
+Habib,52,Pemba South,no,bach degree,government
+Mosi,23,Unguja South,yes,higher diploma,private
+Mosi,24,Singida,yes,diploma,private
+Kwame,37,Kagera,no,higher diploma,private
+Afolabi,47,Lindi,no,diploma,government
+Udo,32,Lindi,no,certificate,private
+Gimba,40,Kigoma,no,bach degree,private
+Ifeoma,18,Iringa,yes,higher certificate,private
+Adama,50,Mara,no,certificate,private
+Ebele,23,Shinyanga,no,higher certificate,government
+Lulu,25,Zanzibar Urban/West,no,higher diploma,government
+Habib,47,Zanzibar Urban/West,yes,diploma,government
+Ayaan,42,Arusha,no,higher diploma,private
+Ayaan,41,Tanga,no,certificate,government
+Zola,25,Shinyanga,no,higher certificate,government
+Jelani,50,Dar es Salaam,no,certificate,government
+Adama,21,Singida,no,higher certificate,government
+Kamau,25,Geita,no,diploma,private
+Salif,27,Dar es Salaam,no,diploma,government
+Kwame,23,Pemba South,yes,higher diploma,government
+Salif,40,Mtwara,no,higher diploma,government
+Penda,25,Morogoro,no,diploma,private
+Mosi,25,Unguja South,yes,higher diploma,government
+Kwame,34,Ruvuma,no,certificate,government
+Chidinma,52,Morogoro,yes,higher certificate,government
+Ifeoma,22,Tabora,yes,diploma,private
+Kamau,26,Kilimanjaro,no,diploma,government
+Gimba,63,Njombe,yes,higher certificate,private
+Ebele,39,Dar es Salaam,yes,certificate,government
+Ayaan,36,Tabora,no,certificate,private
+Adama,39,Shinyanga,no,bach degree,private
+Zola,56,Unguja North,yes,higher certificate,government
+Femi,50,Mwanza,no,higher diploma,private
+Tunde,33,Pemba North,no,bach degree,government
+Zola,60,Rukwa,yes,higher certificate,private
+Penda,63,Singida,no,diploma,private
+Dayo,60,Pemba South,yes,higher certificate,private
+Ayaan,58,Manyara,no,higher diploma,government
+Dayo,40,Rukwa,yes,diploma,government
+Afolabi,47,Pemba South,no,certificate,government
+Afolabi,52,Unguja South,yes,bach degree,government
+Zola,51,Mara,no,higher diploma,private
+Ayaan,19,Mtwara,yes,higher diploma,private
+Yemi,54,Pemba South,no,diploma,private
+Ifeoma,49,Unguja North,no,higher certificate,government
+Penda,59,Morogoro,yes,certificate,private
+Tunde,47,Shinyanga,no,diploma,government
+Achieng,34,Manyara,yes,diploma,government
+Adama,21,Mbeya,no,diploma,private
+Habib,29,Unguja South,no,bach degree,government
+Chidinma,51,Dodoma,yes,bach degree,government
+Habib,49,Iringa,yes,bach degree,private
+Yemi,59,Songwe,no,certificate,government
+Udo,54,Rukwa,no,diploma,private
+Femi,32,Rukwa,no,higher certificate,private
+Kwame,18,Katavi,no,higher certificate,private
+Gimba,43,Rukwa,no,higher certificate,private
+Tunde,45,Dodoma,no,diploma,government
+Tunde,37,Zanzibar North,yes,bach degree,private
+Nia,45,Arusha,yes,bach degree,government
+Afolabi,49,Manyara,yes,higher diploma,government
+Adama,37,Zanzibar Urban/West,yes,higher diploma,government
+Kwame,45,Pwani,yes,certificate,government
+Kwame,32,Pemba South,no,bach degree,private
+Kamau,18,Rukwa,yes,bach degree,government
+Kwame,35,Mtwara,no,bach degree,government
+Femi,28,Mwanza,no,certificate,government
+Gimba,26,Katavi,yes,higher certificate,private
+Lulu,58,Rukwa,yes,bach degree,government
+Kamau,43,Kagera,yes,higher certificate,government
+Ifeoma,23,Ruvuma,yes,bach degree,private
+Kamau,41,Tabora,yes,bach degree,private
+Habib,32,Zanzibar Central/South,no,diploma,government
+Ebele,33,Ruvuma,no,higher diploma,private
+Kwame,25,Mara,no,diploma,private
+Yemi,49,Mara,yes,higher diploma,government
+Gimba,58,Katavi,yes,bach degree,government
+Kamau,56,Zanzibar Urban/West,yes,certificate,government
+Odera,29,Mwanza,no,higher certificate,private
+Habib,41,Shinyanga,no,higher diploma,government
+Lulu,46,Pwani,yes,bach degree,government
+Udo,50,Kilimanjaro,yes,higher diploma,private
+Udo,46,Geita,no,higher diploma,private
+Nia,35,Mbeya,yes,higher certificate,private
+Femi,62,Mwanza,no,certificate,private
+Yemi,46,Pwani,no,certificate,government
+Kwame,44,Zanzibar North,no,bach degree,government
+Jelani,47,Arusha,no,bach degree,private
+Yemi,36,Mbeya,yes,higher certificate,private
+Chidinma,56,Zanzibar North,no,certificate,private
+Udo,23,Shinyanga,yes,higher certificate,private
+Nia,18,Kilimanjaro,no,diploma,private
+Ebele,48,Mara,yes,certificate,private
+Chidinma,31,Kilimanjaro,yes,higher certificate,private
+Jelani,23,Unguja North,no,diploma,private
+Kwame,36,Pemba North,yes,higher diploma,private
+Habib,58,Singida,no,higher diploma,private
+Ayaan,29,Dar es Salaam,yes,diploma,government
+Ayaan,60,Kilimanjaro,no,bach degree,private
+Nia,42,Morogoro,no,higher diploma,private
+Dayo,60,Pwani,no,higher diploma,government
+Habib,42,Pemba North,yes,higher diploma,private
+Penda,39,Pemba South,no,certificate,government
+Odera,54,Morogoro,no,certificate,private
+Zola,33,Mtwara,yes,diploma,government
+Chidinma,30,Kagera,no,certificate,government
+Achieng,24,Singida,no,higher certificate,private
+Adama,58,Dodoma,yes,higher certificate,private
+Afolabi,46,Songwe,no,certificate,private
+Dayo,64,Kagera,yes,higher certificate,government
+Kwame,33,Simiyu,yes,higher certificate,private
+Tunde,64,Kagera,no,diploma,private
+Adama,65,Dodoma,no,higher diploma,private
+Achieng,34,Manyara,yes,certificate,government
+Kamau,31,Arusha,no,certificate,private
+Habib,22,Kilimanjaro,no,higher certificate,private
+Jelani,47,Iringa,no,bach degree,government
+Habib,58,Iringa,yes,certificate,government
+Achieng,18,Arusha,no,certificate,private
+Lulu,43,Kagera,no,certificate,private
+Tunde,23,Mara,yes,higher diploma,private
+Habib,29,Shinyanga,yes,diploma,private
+Kwame,59,Mtwara,no,bach degree,government
+Femi,65,Unguja North,yes,bach degree,government
+Femi,42,Tabora,yes,diploma,government
+Ifeoma,28,Unguja South,yes,bach degree,government
+Penda,52,Rukwa,yes,diploma,private
+Zola,64,Njombe,yes,certificate,private
+Jelani,48,Kigoma,yes,bach degree,private
+Jelani,55,Unguja South,no,higher certificate,private
+Kamau,31,Iringa,no,higher certificate,private
+Lulu,34,Morogoro,no,higher certificate,government
+Mosi,53,Tabora,no,higher diploma,private
+Afolabi,37,Dodoma,no,bach degree,private
+Yemi,64,Morogoro,yes,higher diploma,private
+Kamau,64,Tabora,yes,certificate,government
+Salif,49,Kilimanjaro,yes,diploma,private
+Dayo,29,Manyara,yes,higher diploma,government
+Mosi,61,Dodoma,no,higher diploma,private
+Ifeoma,50,Songwe,yes,diploma,private
+Dayo,55,Pemba North,yes,diploma,private
+Mosi,24,Singida,no,bach degree,government
+Mosi,40,Mara,yes,certificate,private
+Tunde,48,Ruvuma,no,higher diploma,government
+Femi,61,Pwani,no,higher diploma,private
+Achieng,56,Geita,yes,diploma,private
+Gimba,25,Zanzibar North,yes,higher certificate,government
+Afolabi,61,Mtwara,yes,certificate,private
+Nia,44,Mara,no,diploma,private
+Jelani,18,Dar es Salaam,no,certificate,private
+Jelani,29,Zanzibar Central/South,no,bach degree,government
+Lulu,45,Simiyu,no,higher diploma,private
+Ifeoma,19,Unguja North,no,higher diploma,private
+Adama,36,Lindi,yes,bach degree,government
+Dayo,63,Kilimanjaro,no,certificate,private
+Zola,56,Tanga,yes,diploma,government
+Dayo,49,Katavi,yes,diploma,government
+Ayaan,28,Lindi,yes,higher certificate,private
+Jelani,57,Pwani,no,higher certificate,private
+Zola,58,Shinyanga,yes,bach degree,private
+Adama,31,Njombe,no,bach degree,private
+Odera,33,Njombe,no,certificate,private
+Tunde,21,Tabora,yes,bach degree,private
+Ebele,54,Ruvuma,yes,diploma,private
+Udo,36,Mtwara,no,bach degree,private
+Udo,44,Pemba South,no,higher diploma,private
+Tunde,25,Zanzibar North,no,higher diploma,private
+Jelani,56,Songwe,no,certificate,government
+Achieng,58,Singida,yes,higher certificate,government
+Adama,31,Unguja North,yes,higher diploma,private
+Kwame,19,Zanzibar North,yes,higher diploma,government
+Gimba,25,Mbeya,yes,bach degree,private
+Femi,60,Tanga,yes,higher certificate,government
+Odera,60,Pemba South,no,bach degree,private
+Ebele,57,Rukwa,no,bach degree,government
+Lulu,22,Mbeya,yes,diploma,private
+Dayo,52,Katavi,yes,higher diploma,private
+Kamau,27,Zanzibar North,yes,higher certificate,government
+Tunde,29,Pemba South,yes,diploma,government
+Ayaan,19,Iringa,no,certificate,private
+Femi,27,Kagera,no,bach degree,government
+Ayaan,37,Unguja South,no,certificate,government
+Zola,40,Pemba North,yes,certificate,government
+Mosi,52,Kilimanjaro,no,higher certificate,government
+Habib,61,Pemba South,no,diploma,government
+Femi,53,Pemba North,no,higher diploma,private
+Penda,57,Simiyu,no,higher diploma,government
+Adama,41,Zanzibar Central/South,yes,certificate,government
+Penda,42,Simiyu,yes,bach degree,government
+Gimba,50,Dodoma,yes,certificate,private
+Nia,29,Mbeya,no,higher certificate,private
+Dayo,55,Kagera,yes,bach degree,private
+Ebele,43,Katavi,no,bach degree,private
+Lulu,55,Pemba South,yes,higher certificate,government
+Salif,48,Singida,no,higher certificate,private
+Tunde,29,Dodoma,no,higher certificate,private
+Gimba,46,Rukwa,yes,certificate,government
+Jelani,45,Morogoro,no,diploma,government
+Penda,34,Pemba South,yes,certificate,private
+Adama,26,Njombe,yes,higher diploma,private
+Jelani,62,Pemba South,no,higher certificate,private
+Gimba,34,Simiyu,yes,certificate,government
+Adama,18,Lindi,no,higher certificate,private
+Penda,33,Unguja North,yes,bach degree,government
+Jelani,38,Dodoma,yes,bach degree,private
+Habib,29,Unguja South,no,bach degree,private
+Penda,63,Zanzibar North,no,certificate,private
+Femi,59,Arusha,yes,higher diploma,private
+Achieng,26,Mara,yes,certificate,government
+Chidinma,60,Singida,yes,bach degree,government
+Afolabi,28,Mbeya,yes,diploma,government
+Mosi,56,Njombe,no,higher certificate,government
+Adama,28,Mtwara,yes,bach degree,government
+Nia,46,Mara,no,bach degree,government
+Gimba,44,Dar es Salaam,no,diploma,government
+Odera,24,Kilimanjaro,no,certificate,government
+Kamau,59,Shinyanga,no,higher certificate,government
+Lulu,20,Ruvuma,no,higher certificate,private
+Mosi,19,Kigoma,yes,higher certificate,government
+Habib,52,Tanga,no,higher diploma,government
+Ayaan,38,Lindi,no,diploma,private
+Lulu,54,Ruvuma,yes,certificate,government
+Jelani,26,Zanzibar North,yes,higher certificate,private
+Penda,39,Geita,no,higher certificate,government
+Penda,48,Manyara,yes,bach degree,private
+Habib,36,Unguja North,no,bach degree,government
+Zola,46,Dodoma,no,diploma,government
+Odera,18,Tabora,no,higher certificate,private
+Salif,57,Mara,yes,bach degree,government
+Jelani,33,Mara,no,higher diploma,private
+Jelani,50,Simiyu,yes,diploma,private
+Achieng,62,Mwanza,yes,bach degree,government
+Mosi,23,Zanzibar North,yes,certificate,private
+Afolabi,40,Zanzibar Urban/West,yes,higher diploma,government
+Jelani,64,Kagera,yes,certificate,private
+Jelani,24,Simiyu,no,higher certificate,government
+Mosi,49,Mwanza,yes,diploma,private
+Mosi,51,Mwanza,yes,diploma,government
+Jelani,39,Singida,no,diploma,private
+Penda,35,Pemba North,yes,bach degree,government
+Kwame,53,Mwanza,no,certificate,government
+Chidinma,59,Njombe,yes,bach degree,private
+Ifeoma,46,Morogoro,no,certificate,private
+Nia,47,Pemba South,yes,higher certificate,government
+Nia,32,Rukwa,yes,certificate,government
+Ayaan,45,Unguja South,yes,higher certificate,government
+Jelani,29,Tanga,no,diploma,government
+Dayo,65,Rukwa,yes,diploma,government
+Odera,50,Mwanza,yes,higher diploma,private
+Kamau,28,Songwe,yes,certificate,private
+Chidinma,58,Pemba South,no,higher certificate,private
+Penda,20,Manyara,yes,diploma,government
+Afolabi,63,Zanzibar North,yes,diploma,government
+Salif,43,Mbeya,no,higher certificate,government
+Salif,40,Lindi,yes,diploma,government
+Tunde,57,Zanzibar Urban/West,yes,higher diploma,government
+Udo,39,Unguja South,no,higher certificate,private
+Udo,49,Mara,yes,bach degree,government
+Dayo,57,Njombe,yes,diploma,government
+Mosi,39,Zanzibar North,yes,certificate,private
+Adama,31,Unguja North,no,higher diploma,government
+Ifeoma,47,Unguja South,no,higher certificate,government
+Kwame,33,Morogoro,yes,higher certificate,government
+Ayaan,39,Mara,no,higher diploma,private
+Odera,64,Singida,no,bach degree,private
+Lulu,34,Geita,yes,bach degree,government
+Dayo,23,Njombe,no,higher certificate,government
+Achieng,24,Mtwara,yes,higher diploma,government
+Chidinma,62,Ruvuma,no,higher diploma,government
+Achieng,61,Pemba North,no,higher diploma,private
+Lulu,47,Dar es Salaam,yes,bach degree,government
+Femi,19,Unguja North,no,certificate,government
+Yemi,48,Kagera,no,bach degree,government
+Ifeoma,35,Rukwa,yes,bach degree,private
+Yemi,23,Unguja South,no,diploma,government
+Kamau,65,Zanzibar Urban/West,no,certificate,government
+Nia,52,Zanzibar Urban/West,yes,higher diploma,private
+Kwame,23,Zanzibar Central/South,no,higher certificate,private
+Adama,35,Shinyanga,yes,higher diploma,private
+Odera,39,Dar es Salaam,no,higher diploma,private
+Afolabi,49,Pwani,yes,diploma,private
+Ayaan,64,Tabora,yes,higher diploma,private
+Adama,33,Kagera,yes,diploma,private
+Udo,51,Tanga,no,diploma,government
+Habib,30,Rukwa,yes,higher diploma,private
+Nia,52,Tabora,yes,bach degree,private
+Penda,20,Katavi,no,certificate,government
+Udo,48,Dar es Salaam,yes,bach degree,private
+Ebele,58,Katavi,yes,higher certificate,government
+Penda,63,Kigoma,yes,bach degree,government
+Lulu,47,Mwanza,yes,diploma,government
+Nia,44,Kilimanjaro,yes,certificate,private
+Achieng,30,Tanga,yes,diploma,private
+Kamau,65,Ruvuma,no,diploma,government
+Salif,56,Shinyanga,no,diploma,government
+Kwame,63,Lindi,no,diploma,government
+Habib,29,Kagera,yes,bach degree,private
+Lulu,41,Tabora,no,certificate,government
+Kamau,48,Mbeya,no,bach degree,private
+Gimba,46,Shinyanga,no,diploma,private
+Yemi,43,Simiyu,no,diploma,private
+Zola,52,Lindi,yes,higher diploma,government
+Ayaan,33,Pemba South,no,higher diploma,government
+Gimba,35,Zanzibar Urban/West,yes,diploma,government
+Dayo,39,Mwanza,no,higher certificate,private
+Lulu,25,Lindi,yes,diploma,government
+Tunde,22,Tanga,yes,bach degree,government
+Zola,29,Unguja South,no,diploma,government
+Femi,48,Arusha,no,certificate,government
+Salif,20,Manyara,yes,bach degree,government
+Femi,46,Kigoma,no,bach degree,private
+Gimba,64,Zanzibar Urban/West,no,higher certificate,private
+Penda,52,Rukwa,yes,higher diploma,private
+Zola,62,Tabora,yes,higher diploma,private
+Achieng,43,Dodoma,yes,diploma,private
+Ebele,25,Unguja North,yes,bach degree,government
+Salif,63,Geita,yes,bach degree,private
+Achieng,61,Tabora,yes,bach degree,private
+Zola,65,Simiyu,no,certificate,private
+Achieng,58,Tanga,no,higher diploma,government
+Afolabi,43,Mtwara,no,certificate,government
+Salif,52,Kilimanjaro,no,higher diploma,government
+Yemi,37,Mara,no,higher certificate,private
+Odera,50,Singida,yes,bach degree,government
+Udo,54,Dar es Salaam,no,higher certificate,private
+Chidinma,54,Zanzibar North,yes,bach degree,government
+Afolabi,41,Morogoro,yes,diploma,private
+Kwame,31,Zanzibar Central/South,yes,higher certificate,private
+Zola,62,Zanzibar North,no,higher certificate,private
+Kwame,19,Singida,yes,higher certificate,private
+Femi,40,Pwani,yes,diploma,government
+Dayo,49,Pemba South,no,higher certificate,government
+Ebele,61,Tanga,no,certificate,government
+Adama,36,Kigoma,no,bach degree,private
+Ayaan,38,Njombe,yes,bach degree,government
+Ebele,44,Iringa,yes,certificate,government
+Achieng,57,Mwanza,yes,diploma,private
+Adama,62,Unguja North,no,higher certificate,government
+Femi,34,Songwe,yes,higher diploma,government
+Ifeoma,29,Ruvuma,no,bach degree,private
+Afolabi,62,Zanzibar Central/South,no,bach degree,government
+Adama,55,Lindi,yes,certificate,private
+Udo,33,Zanzibar Urban/West,no,bach degree,government
+Nia,65,Unguja North,yes,diploma,government
+Salif,58,Simiyu,yes,bach degree,private
+Chidinma,59,Lindi,no,bach degree,government
+Zola,30,Tabora,no,higher certificate,government
+Achieng,19,Kilimanjaro,no,higher diploma,private
+Lulu,53,Zanzibar Urban/West,no,higher diploma,government
+Adama,57,Mbeya,no,diploma,private
+Adama,61,Arusha,yes,bach degree,private
+Lulu,45,Tanga,yes,bach degree,government
+Mosi,46,Kigoma,yes,higher diploma,private
+Ebele,28,Katavi,yes,certificate,private
+Gimba,25,Unguja North,yes,diploma,government
+Ifeoma,28,Ruvuma,yes,certificate,government
+Lulu,60,Mara,yes,higher diploma,private
+Ayaan,56,Mtwara,yes,certificate,government
+Gimba,61,Pwani,no,higher diploma,government
+Yemi,33,Kilimanjaro,no,bach degree,private
+Gimba,34,Songwe,no,bach degree,government
+Tunde,41,Arusha,yes,bach degree,government
+Salif,33,Dar es Salaam,yes,bach degree,private
+Ebele,21,Zanzibar North,no,higher diploma,government
+Gimba,51,Iringa,yes,higher certificate,government
+Jelani,44,Unguja North,no,diploma,government
+Habib,49,Ruvuma,yes,higher diploma,private
+Ayaan,60,Morogoro,no,bach degree,private
+Salif,34,Rukwa,yes,diploma,government
+Femi,46,Shinyanga,yes,certificate,private
+Kwame,29,Mwanza,yes,bach degree,private
+Gimba,48,Pemba South,no,higher certificate,government
+Ifeoma,45,Katavi,no,bach degree,private
+Udo,45,Zanzibar Urban/West,yes,higher certificate,government
+Ifeoma,23,Shinyanga,yes,diploma,government
+Afolabi,35,Singida,no,diploma,private
+Adama,20,Ruvuma,yes,certificate,private
+Femi,34,Pwani,yes,certificate,private
+Kwame,51,Shinyanga,no,diploma,private
+Chidinma,29,Pwani,no,diploma,private
+Tunde,47,Dar es Salaam,no,bach degree,government
+Lulu,45,Songwe,yes,higher diploma,private
+Lulu,60,Kilimanjaro,no,diploma,private
+Yemi,25,Songwe,no,bach degree,government
+Ebele,36,Mbeya,yes,certificate,government
+Femi,49,Rukwa,yes,higher diploma,private
+Afolabi,19,Zanzibar Central/South,yes,higher certificate,government
+Tunde,60,Morogoro,yes,bach degree,government
+Ayaan,39,Songwe,no,certificate,private
+Ebele,63,Tanga,no,diploma,government
+Gimba,23,Ruvuma,yes,diploma,government
+Afolabi,26,Pemba North,no,certificate,government
+Yemi,65,Pwani,yes,diploma,private
+Yemi,51,Mara,no,bach degree,government
+Tunde,57,Mara,no,higher certificate,government
+Salif,28,Pemba South,yes,higher diploma,private
+Lulu,23,Dodoma,yes,bach degree,private
+Ebele,51,Manyara,no,diploma,government
+Jelani,27,Manyara,yes,certificate,government
+Ayaan,22,Mara,yes,diploma,private
+Chidinma,18,Morogoro,yes,certificate,private
+Habib,30,Mbeya,yes,higher diploma,government
+Chidinma,43,Simiyu,no,higher diploma,private
+Kamau,36,Lindi,no,diploma,private
+Achieng,34,Singida,yes,higher certificate,government
+Mosi,19,Manyara,yes,higher certificate,private
+Achieng,34,Lindi,yes,higher certificate,private
+Tunde,39,Simiyu,no,diploma,government
+Habib,33,Dodoma,yes,certificate,government
+Gimba,18,Mbeya,yes,diploma,private
+Ayaan,47,Geita,yes,higher certificate,government
+Salif,24,Songwe,no,diploma,government
+Femi,59,Pwani,yes,certificate,private
+Penda,43,Arusha,no,higher certificate,government
+Lulu,54,Manyara,no,certificate,government
+Salif,41,Lindi,yes,higher diploma,private
+Femi,58,Kagera,no,certificate,government
+Penda,29,Dodoma,yes,diploma,private
+Chidinma,45,Mara,yes,higher diploma,private
+Penda,34,Singida,no,certificate,private
+Zola,65,Katavi,yes,higher certificate,private
+Zola,51,Manyara,yes,bach degree,government
+Ifeoma,47,Iringa,yes,higher diploma,government
+Mosi,20,Pemba North,yes,bach degree,government
+Mosi,44,Ruvuma,no,certificate,government
+Dayo,33,Dodoma,no,diploma,government
+Zola,42,Pwani,yes,certificate,private
+Kwame,33,Singida,no,diploma,government
+Mosi,28,Unguja South,yes,higher diploma,private
+Odera,59,Mara,yes,certificate,government
+Femi,43,Mbeya,yes,higher certificate,private
+Afolabi,51,Njombe,yes,certificate,private
+Achieng,59,Ruvuma,yes,higher certificate,private
+Zola,43,Manyara,yes,higher certificate,government
+Gimba,27,Unguja South,no,diploma,private
+Adama,19,Songwe,yes,diploma,government
+Nia,41,Ruvuma,yes,diploma,private
+Odera,57,Mara,yes,bach degree,government
+Nia,27,Unguja North,no,higher diploma,private
+Salif,39,Mbeya,yes,diploma,private
+Afolabi,64,Manyara,no,diploma,private
+Tunde,49,Pemba North,no,bach degree,government
+Ayaan,55,Singida,yes,bach degree,government
+Nia,60,Tanga,yes,bach degree,government
+Kamau,62,Mara,yes,certificate,government
+Kwame,41,Geita,yes,diploma,private
+Salif,59,Katavi,no,diploma,private
+Ayaan,40,Singida,yes,diploma,private
+Tunde,30,Singida,no,bach degree,private
+Chidinma,43,Unguja North,yes,diploma,government
+Afolabi,61,Unguja North,no,bach degree,private
+Odera,54,Pwani,yes,diploma,government
+Lulu,51,Manyara,yes,higher diploma,government
+Chidinma,45,Iringa,yes,diploma,government
+Udo,58,Tabora,no,diploma,private
+Udo,25,Dodoma,yes,higher certificate,government
+Habib,45,Ruvuma,yes,diploma,private
+Habib,46,Manyara,no,higher diploma,government
+Ayaan,59,Zanzibar Urban/West,no,higher diploma,private
+Habib,62,Mtwara,no,bach degree,private
+Achieng,29,Kagera,no,diploma,private
+Kwame,42,Ruvuma,no,bach degree,private
+Lulu,53,Mwanza,no,bach degree,government
+Kamau,42,Njombe,yes,certificate,private
+Udo,20,Manyara,no,higher diploma,private
+Mosi,36,Mbeya,yes,higher diploma,private
+Kwame,45,Zanzibar North,yes,certificate,government
+Chidinma,18,Kagera,no,certificate,private
+Ifeoma,65,Geita,no,certificate,government
+Achieng,44,Songwe,no,higher certificate,private
+Kamau,47,Shinyanga,yes,higher certificate,government
+Gimba,31,Zanzibar North,yes,certificate,government
+Ifeoma,26,Mtwara,yes,diploma,private
+Yemi,53,Unguja North,no,certificate,private
+Ebele,60,Kilimanjaro,yes,bach degree,private
+Nia,33,Unguja South,no,diploma,government
+Yemi,21,Ruvuma,no,higher diploma,government
+Nia,33,Singida,no,higher certificate,government
+Nia,35,Tabora,yes,higher certificate,government
+Habib,29,Dodoma,no,higher diploma,government
+Kwame,47,Zanzibar Central/South,no,diploma,government
+Afolabi,20,Iringa,no,higher certificate,government
+Achieng,39,Unguja South,no,bach degree,private
+Ifeoma,24,Zanzibar Central/South,no,higher certificate,private
+Penda,42,Manyara,yes,higher certificate,government
+Afolabi,25,Unguja North,no,higher diploma,government
+Achieng,35,Geita,no,higher diploma,private
+Zola,29,Iringa,no,bach degree,government
+Kamau,35,Dodoma,no,bach degree,government
+Ayaan,19,Pemba South,no,certificate,government
+Ayaan,39,Mtwara,no,higher diploma,government
+Achieng,30,Mtwara,no,higher certificate,government
+Adama,61,Zanzibar North,yes,certificate,private
+Dayo,49,Unguja North,no,higher diploma,government
+Yemi,47,Pemba North,yes,diploma,private
+Lulu,51,Kagera,yes,bach degree,government
+Zola,28,Dodoma,yes,certificate,government
+Femi,33,Lindi,yes,diploma,private
+Kwame,20,Katavi,yes,higher diploma,private
+Kamau,46,Rukwa,yes,higher certificate,government
+Chidinma,54,Njombe,yes,bach degree,private
+Tunde,29,Katavi,no,higher diploma,private
+Lulu,36,Lindi,no,bach degree,private
+Ayaan,39,Manyara,no,higher certificate,government
+Femi,46,Kagera,yes,higher diploma,private
+Lulu,19,Pemba South,no,bach degree,government
+Dayo,27,Pemba South,yes,higher certificate,private
+Salif,55,Singida,yes,certificate,private
+Achieng,64,Simiyu,no,higher certificate,private
+Jelani,53,Katavi,yes,higher diploma,private
+Lulu,32,Zanzibar Urban/West,yes,diploma,private
+Afolabi,29,Unguja North,yes,bach degree,private
+Udo,27,Katavi,no,diploma,government
+Adama,64,Unguja North,yes,higher diploma,government
+Kwame,45,Morogoro,yes,higher diploma,government
+Ayaan,150,Pemba North,no,bach degree,government
+Salif,0,Iringa,no,higher diploma,private
+Adama,90,Kagera,yes,higher diploma,private
